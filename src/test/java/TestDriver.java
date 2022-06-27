@@ -34,7 +34,9 @@ public class TestDriver {
 	}
 
 	// Your task:
-	// Do a lookup in the forecast box for "New York" and get the forecast for "New York, FL"
+    // navigate to https://weather.gov
+	// Then do a lookup in the forecast box for "New York" and get the forecast for "New York, FL"
+	// Note: It will (strangely) return the weather for Mobile, AL, this is expected.
 	// You can google!
 
 }

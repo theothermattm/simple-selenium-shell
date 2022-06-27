@@ -1,7 +1,12 @@
 Simple Selenium
 ===============
 
-A simple [selenium webdriver](http://docs.seleniumhq.org/projects/webdriver/) project to get started. It uses webdriver to run a java test that goes to a specific web site and assert the URL of the site. This repository could be used to get started with Selenium.
+A simple [selenium webdriver](http://docs.seleniumhq.org/projects/webdriver/) project to get started writing tests fast. 
+It uses Webdriver to run a java test that goes to a specific web site and assert the URL of the site. 
+
+The tests are written with [JUnit 5](https://junit.org/junit5/) and assertions are written with [Hamcrest](http://hamcrest.org/).
+
+This repository could be used to get started with Selenium.
 
 Dependency
 ---------------
