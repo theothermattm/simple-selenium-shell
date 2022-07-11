@@ -31,6 +31,7 @@ public class TestDriver {
 	@BeforeAll
 	public static void setupDrivers() {
 		WebDriverManager.chromedriver().setup();
+		driver = new ChromeDriver();
 	}
 
 	// Your task:
